@@ -952,8 +952,8 @@ section .container {
 
 .portfolio-details .portfolio-info h3 {
   font-size: 22px;
-  font-weight: 400;
-  margin-bottom: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
 }
 
 .portfolio-details .portfolio-info ul {
@@ -968,7 +968,7 @@ section .container {
 
 .portfolio-details .portfolio-info p {
   font-size: 15px;
-  padding: 15px 0 0 0;
+  padding: 5px 0 0 0;
 }
 
 @media (max-width: 992px) {
